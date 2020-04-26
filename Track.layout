@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="AAMLibrary\AAM_Util.h" open="0" top="0" tabpos="0">
+		<Cursor position="668" topLine="12" />
+	</File>
+	<File name="ASMDLL\ASMDLL.h" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="CPR.h" open="0" top="0" tabpos="3">
+		<Cursor position="6203" topLine="128" />
+	</File>
+	<File name="CPR2.h" open="1" top="0" tabpos="3">
+		<Cursor position="323" topLine="0" />
+	</File>
+	<File name="Collect.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="9892" topLine="345" />
+	</File>
+	<File name="Collect.h" open="0" top="0" tabpos="0">
+		<Cursor position="257" topLine="0" />
+	</File>
+	<File name="PIF.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="1074" topLine="0" />
+	</File>
+	<File name="PIF2.h" open="0" top="0" tabpos="9">
+		<Cursor position="235" topLine="125" />
+	</File>
+	<File name="PIF3.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="6642" topLine="212" />
+	</File>
+	<File name="PIF3.h" open="0" top="0" tabpos="8">
+		<Cursor position="7676" topLine="283" />
+	</File>
+	<File name="PIF4.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="344" topLine="1" />
+	</File>
+	<File name="PIF4.h" open="1" top="0" tabpos="2">
+		<Cursor position="1909" topLine="89" />
+	</File>
+	<File name="RandomFern.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="112" topLine="0" />
+	</File>
+	<File name="RandomFern.h" open="0" top="0" tabpos="4">
+		<Cursor position="3801" topLine="0" />
+	</File>
+	<File name="aflw\dbconn\SQLiteDBConnection.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="447" topLine="25" />
+	</File>
+	<File name="aflw\dbconn\SQLiteDBConnection.h" open="0" top="0" tabpos="0">
+		<Cursor position="1437" topLine="36" />
+	</File>
+	<File name="aflw\facedata\FaceData.h" open="0" top="0" tabpos="3">
+		<Cursor position="1243" topLine="52" />
+	</File>
+	<File name="aflw\facedata\FacePose.h" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="aflw\facedata\FaceRect.h" open="0" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="aflw\facedata\FeaturesCoords.h" open="0" top="0" tabpos="5">
+		<Cursor position="0" topLine="32" />
+	</File>
+	<File name="aflw\util\MeanFace3DModel.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="99" />
+	</File>
+	<File name="aflw\util\ModernPosit.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="285" topLine="184" />
+	</File>
+	<File name="debug.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="2419" topLine="112" />
+	</File>
+	<File name="debug.h" open="0" top="0" tabpos="0">
+		<Cursor position="667" topLine="0" />
+	</File>
+	<File name="feature_channel_factory.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="332" topLine="0" />
+	</File>
+	<File name="image_sample.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="684" topLine="0" />
+	</File>
+	<File name="image_sample.hpp" open="0" top="0" tabpos="7">
+		<Cursor position="337" topLine="190" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="15330" topLine="677" />
+	</File>
+	<File name="opencv_serialization.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="2305" topLine="0" />
+	</File>
+	<File name="tree\node.hpp" open="0" top="0" tabpos="2">
+		<Cursor position="2605" topLine="108" />
+	</File>
+	<File name="tree\tree.hpp" open="0" top="0" tabpos="9">
+		<Cursor position="10030" topLine="315" />
+	</File>
+</CodeBlocks_layout_file>
